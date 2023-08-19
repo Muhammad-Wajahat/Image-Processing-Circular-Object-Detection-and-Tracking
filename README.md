@@ -23,7 +23,7 @@ In addition to circle detection, a visual marker is placed at the center of the 
 
 1. Clone this repository to your local machine using:
    ```
-   git clone 
+   git clone https://github.com/Muhammad-Wajahat/Image-Processing-Circular-Object-Detection-and-Tracking.git 
    ```
    
 2. Navigate to the project directory:
