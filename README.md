@@ -10,7 +10,7 @@ This repository contains a Python project focused on detecting circular objects 
 
 ## Introduction
 
-The main goal of this project is to showcase a simple yet effective method for detecting circular objects in images. The Hough Circles algorithm is employed due to its capability to identify circular shapes even with noise and partial occlusion. By applying Gaussian Blur on the frames before running the Hough Circles algorithm, we can control the sensitivity of circle detection and reduce false positives.
+The main goal of this project is to showcase a simple yet effective method for detecting circular objects in videos in real-time. The Hough Circles algorithm is employed due to its capability to identify circular shapes even with noise and partial occlusion. By applying Gaussian Blur on the frames before running the Hough Circles algorithm, we can control the sensitivity of circle detection and reduce false positives.
 
 In addition to circle detection, a visual marker is placed at the center of the detected circle. This marker aids in tracking the movement of the circular object within the video.
 
